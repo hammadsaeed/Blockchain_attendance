@@ -1,0 +1,10 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const PASSWORD_FORGET = '/pw-forget';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const IMPORT = '/import';
+export const Qrscanner = '/qrscanner';
+export const Qrgenerator = '/Qrgenerator'
+export const Profilepage = '/Profilepicture_page'
